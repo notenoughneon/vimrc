@@ -1,0 +1,7 @@
+set lines=40
+set columns=80
+set guifont=Lucida_Console:h10
+set guioptions=aegimrLt
+"hi Normal guibg=#F0FFE0 guifg=Black
+colorscheme emma
+
